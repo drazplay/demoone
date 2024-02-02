@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://drazplay.github.io/demoone/about-us/",
-            "url": "https://drazplay.github.io/demoone/about-us/",
-            "title": "About us",
-            "summary": "Publii doesn't build basic blogs; it offers the tools to create a range of stunning, versatile websites whatever the focus.",
-            "content_html": "\n  <p class=\"align-center\">\n    <div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JF8GK4n15zA?si=GPnA7KEYRsnvYojS&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\"></iframe></div>\n  </p>\n\n  <p>\n    \n  </p>\n\n    <h2 id=\"showcase\">\n      Showcase\n    </h2>\n\n  <p>\n    Publii doesn't build basic blogs; it offers the tools to create a range of stunning, versatile websites whatever the focus. Portfolios, documentation, news and hobbyist sites; whatever the subject, Publii can deliver. Check out the brilliant sites from our community below to see just what can be achieved with the right theme and a dream.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d.jpeg\" data-size=\"1080x720\">\n        <img loading=\"lazy\" src=\"https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-thumbnail.jpeg\" height=\"512\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2.jpeg\" data-size=\"1080x720\">\n        <img loading=\"lazy\" src=\"https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2-thumbnail.jpeg\" height=\"512\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-3.jpeg\" data-size=\"1080x720\">\n        <img loading=\"lazy\" src=\"https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-3-thumbnail.jpeg\" height=\"512\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
-            "author": {
-                "name": "Draz"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-02-02T17:41:20+07:00",
-            "date_modified": "2024-02-02T17:46:56+07:00"
-        },
-        {
             "id": "https://drazplay.github.io/demoone/grilled-vegetable-terrine-with-tomato-sauce/",
             "url": "https://drazplay.github.io/demoone/grilled-vegetable-terrine-with-tomato-sauce/",
             "title": "Grilled vegetable terrine with tomato sauce",
