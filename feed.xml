@@ -3,28 +3,44 @@
     <title>Playground</title>
     <link href="https://drazplay.github.io/demoone/feed.xml" rel="self" />
     <link href="https://drazplay.github.io/demoone" />
-    <updated>2024-02-02T16:07:16+07:00</updated>
+    <updated>2024-02-02T16:19:21+07:00</updated>
     <author>
         <name>Draz</name>
     </author>
     <id>https://drazplay.github.io/demoone</id>
 
     <entry>
-        <title>Blbalbalablbaa</title>
+        <title>Aenean vitae dui blandit, hendrerit sem feugiat</title>
         <author>
             <name>Draz</name>
         </author>
         <link href="https://drazplay.github.io/demoone/blbalbalablbaa/"/>
         <id>https://drazplay.github.io/demoone/blbalbalablbaa/</id>
+        <media:content url="https://drazplay.github.io/demoone/media/posts/1/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2.jpeg" medium="image" />
 
-        <updated>2024-02-02T16:07:16+07:00</updated>
+        <updated>2024-02-02T16:19:21+07:00</updated>
             <summary>
                 <![CDATA[
-                    asdkjahskdjhaksjdasd captiontext
+                        <img src="https://drazplay.github.io/demoone/media/posts/1/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2.jpeg" alt="" />
+                    
+  <p>
+    asdkjahskdjhaksjdasd
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://drazplay.github.io/demoone/media/posts/1/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d.jpeg" height="720" width="1080" alt="alttext"  sizes="(max-width: 48em) 100vw, 100vw" srcset="https://drazplay.github.io/demoone/media/posts/1/responsive/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-xs.jpeg 300w ,https://drazplay.github.io/demoone/media/posts/1/responsive/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-sm.jpeg 480w ,https://drazplay.github.io/demoone/media/posts/1/responsive/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-md.jpeg 768w">
+      <figcaption>captiontext</figcaption>
+    </figure>
+
+  <p>
+    Aenean vitae dui blandit, hendrerit sem feugiat
+  </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://drazplay.github.io/demoone/media/posts/1/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     asdkjahskdjhaksjdasd
@@ -34,6 +50,19 @@
       <img loading="lazy" src="https://drazplay.github.io/demoone/media/posts/1/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d.jpeg" height="720" width="1080" alt="alttext"  sizes="(max-width: 48em) 100vw, 100vw" srcset="https://drazplay.github.io/demoone/media/posts/1/responsive/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-xs.jpeg 300w ,https://drazplay.github.io/demoone/media/posts/1/responsive/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-sm.jpeg 480w ,https://drazplay.github.io/demoone/media/posts/1/responsive/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-md.jpeg 768w">
       <figcaption>captiontext</figcaption>
     </figure>
+
+  <p>
+    Aenean vitae dui blandit, hendrerit sem feugiat
+  </p>
+
+
+  <p>
+    Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. Aliquam sollicitudin ipsum risus, in sollicitudin ipsum finibus ut.<br>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla, ut dignissim turpis libero et urna. Phasellus tortor augue, rutrum vel euismod at, eleifend ac turpis.Phasellus porttitor maximus nisl, vitae sagittis lorem gravida sit amet. Donec augue nulla, eleifend tempus nib.<br>Ingredients<br>(makes about 3 servings)<br>4 large onions, thinly sliced<br>a handful of cheddar curd, or grated cheddar<br>2 tbsp mango or orange juice (optional)<br>spring onions, chopped fine<br>6 cups chicken or vegetable stock<br>6 leaves kale, thick ribs trimmed and torn or sliced into slivers<br>6 tablespoons crème fraiche<br>4 pieces stale, crusty French bread<br>1.2kg potatoes, peeled and cut into quarters<br>1 tsp lemon juice<br>Method<br>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla, ut dignissim turpis libero et urna. <br>Sed laoreet justo nec orci lobortis imperdiet. Aliquam lacinia scelerisque libero at mattis. Curabitur ac magna erat. Integer eleifend, lacus quis cursus euismod, massa sem blandit nulla.<br>Phasellus tortor augue, rutrum vel euismod at, eleifend ac turpis.Phasellus porttitor maximus nisl, vitae sagittis lorem gravida sit amet. Donec augue nulla, eleifend tempus nib.<br>Praesent varius, urna vel consectetur elementum, enim tellus molestie justo, et vehicula quam nulla sit amet mi. Mauris suscipit eros malesuada augue tincidunt feugiat. Cras gravida semper arcu quis imperdiet. Aliquam sollicitudin ipsum risus, in sollicitudin ipsum finibus ut.
+  </p>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
