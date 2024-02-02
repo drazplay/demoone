@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Playground",
+    "description": "",
+    "home_page_url": "https://drazplay.github.io/demoone",
+    "feed_url": "https://drazplay.github.io/demoone/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Draz"
+    },
+    "items": [
+    ]
+}

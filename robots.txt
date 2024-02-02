@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://drazplay.github.io/demoone/sitemap.xml

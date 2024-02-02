@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Playground</title>
+    <link href="https://drazplay.github.io/demoone/feed.xml" rel="self" />
+    <link href="https://drazplay.github.io/demoone" />
+    <updated>1970-01-01T07:00:00+07:00</updated>
+    <author>
+        <name>Draz</name>
+    </author>
+    <id>https://drazplay.github.io/demoone</id>
+
+</feed>
