@@ -3,12 +3,68 @@
     <title>Playground</title>
     <link href="https://drazplay.github.io/demoone/feed.xml" rel="self" />
     <link href="https://drazplay.github.io/demoone" />
-    <updated>2024-02-02T17:37:21+07:00</updated>
+    <updated>2024-02-02T17:46:56+07:00</updated>
     <author>
         <name>Draz</name>
     </author>
     <id>https://drazplay.github.io/demoone</id>
 
+    <entry>
+        <title>About us</title>
+        <author>
+            <name>Draz</name>
+        </author>
+        <link href="https://drazplay.github.io/demoone/about-us/"/>
+        <id>https://drazplay.github.io/demoone/about-us/</id>
+
+        <updated>2024-02-02T17:46:56+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Publii doesn't build basic blogs; it offers the tools to create a range of stunning, versatile websites whatever the focus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p class="align-center">
+    <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/JF8GK4n15zA?si=GPnA7KEYRsnvYojS&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+  </p>
+
+  <p>
+    
+  </p>
+
+    <h2 id="showcase">
+      Showcase
+    </h2>
+
+  <p>
+    Publii doesn't build basic blogs; it offers the tools to create a range of stunning, versatile websites whatever the focus. Portfolios, documentation, news and hobbyist sites; whatever the subject, Publii can deliver. Check out the brilliant sites from our community below to see just what can be achieved with the right theme and a dream.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d.jpeg" data-size="1080x720">
+        <img loading="lazy" src="https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2.jpeg" data-size="1080x720">
+        <img loading="lazy" src="https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-2-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-3.jpeg" data-size="1080x720">
+        <img loading="lazy" src="https://drazplay.github.io/demoone/media/posts/3/gallery/f2e4ebede33e4e7783b83b37be099dd75e5a30e4ed7f41626985b218930a41f167c8fcc934b4e12942a6d5f3aa3b050686be47d0d1342e14aee011d223439cbca0a5a9246237c8040500e6e11b976b2340ce5c53bd17d9d2d12f1963d92570f66b9fe61d-3-thumbnail.jpeg" height="512" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Grilled vegetable terrine with tomato sauce</title>
         <author>
